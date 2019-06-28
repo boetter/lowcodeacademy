@@ -14,7 +14,7 @@ body:not(.touch-device) .nav-item:hover .nav-drop {
 }
 
 a {
-  color: #3041C4;
+  color: #8C1CF1;
   -webkit-transition: opacity .2s, color .2s;
   -o-transition: opacity .2s, color .2s;
   transition: opacity .2s, color .2s;
@@ -61,7 +61,7 @@ label {
 }
 
 .form-control:focus {
-  border-color: #3041C4;
+  border-color: #8C1CF1;
   -webkit-box-shadow: 0 0 0 0.2rem rgba(48, 65, 196, 0.25);
   box-shadow: 0 0 0 0.2rem rgba(48, 65, 196, 0.25);
 }
@@ -79,11 +79,11 @@ textarea.form-control {
 }
 
 .btn-primary {
-  background: #3041C4;
+  background: #8C1CF1;
 }
 
 .btn-primary:hover {
-  background: #2b3ab0;
+  background: #290060;
 }
 
 .btn-secondary {
@@ -95,20 +95,20 @@ textarea.form-control {
 
 .btn-outline-primary {
   padding: 11px 27px;
-  border: 1px solid #3041C4;
+  border: 1px solid #8C1CF1;
   background: none;
-  color: #3041C4;
+  color: #8C1CF1;
 }
 
 .btn-outline-primary:hover {
-  background: #3041C4;
-  border-color: #3041C4;
+  background: #8C1CF1;
+  border-color: #8C1CF1;
   color: white;
 }
 
 .btn-outline-primary:active {
-  background: #2b3ab0;
-  border-color: #2b3ab0;
+  background: #290060;
+  border-color: #290060;
   color: white;
 }
 
@@ -190,7 +190,7 @@ textarea.form-control {
 }
 
 .carousel-indicators li.active:before {
-  background: #3041C4;
+  background: #8C1CF1;
 }
 
 .carousel-indicators li:before {
@@ -350,7 +350,7 @@ textarea.form-control {
 }
 
 .nav-link:hover .nav-arrow {
-  fill: #3041C4;
+  fill: #8C1CF1;
 }
 
 .nav-arrow {
@@ -580,19 +580,19 @@ textarea.form-control {
 }
 
 .accordion-item.active {
-  border-color: #3041C4;
-  -webkit-box-shadow: 0 -2px 0 0 #3041C4 inset;
-  box-shadow: 0 -2px 0 0 #3041C4 inset;
+  border-color: #8C1CF1;
+  -webkit-box-shadow: 0 -2px 0 0 #8C1CF1 inset;
+  box-shadow: 0 -2px 0 0 #8C1CF1 inset;
 }
 
 .accordion-head:hover .accordion-icon svg,
 .accordion-item.active .accordion-icon svg {
-  fill: #3041C4;
+  fill: #8C1CF1;
 }
 
 .accordion-head:hover .accordion-title,
 .accordion-item.active .accordion-title {
-  color: #3041C4;
+  color: #8C1CF1;
 }
 
 .accordion-item.active .accordion-body {
@@ -698,7 +698,7 @@ textarea.form-control {
   margin-bottom: 28px;
   font-size: 24px;
   font-weight: 700;
-  color: #3041C4;
+  color: #8C1CF1;
 }
 
 .review-text {
@@ -762,7 +762,7 @@ textarea.form-control {
 }
 
 .audience-item:hover {
-  background: #3041C4;
+  background: #8C1CF1;
 }
 
 .audience-item:hover .audience-title, .audience-item:hover .audience-content {
@@ -950,7 +950,7 @@ textarea.form-control {
 }
 
 .footer-link:hover {
-  color: #3041C4;
+  color: #8C1CF1;
 }
 
 .footer .navbar-brand {
@@ -1444,7 +1444,7 @@ textarea.form-control {
     align-items: center;
   }
   .vacancy-item:hover {
-    background: #3041C4;
+    background: #8C1CF1;
     color: white;
   }
   .vacancy-item:hover .vacancy-text {
